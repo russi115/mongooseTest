@@ -8,5 +8,4 @@ const someFunction = async () => {
     
     console.log(result)
 }
-
 someFunction()
